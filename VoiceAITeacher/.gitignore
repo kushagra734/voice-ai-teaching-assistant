@@ -1,0 +1,16 @@
+# Environment
+.env
+.streamlit/secrets.toml
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Outputs
+outputs/*.txt
+sessions.json
+
+# OS
+.DS_Store
+Thumbs.db
