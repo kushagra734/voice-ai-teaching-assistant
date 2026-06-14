@@ -76,12 +76,7 @@ VoiceAITeacher/
     └── secrets.toml.example
 ```
 
-## Submission Checklist
 
-- [ ] Live URL (Streamlit Cloud)
-- [ ] Public GitHub repo
-- [ ] README (this file)
-- [ ] 3-minute demo video
 
 ## License
 
